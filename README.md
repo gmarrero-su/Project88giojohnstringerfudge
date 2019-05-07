@@ -57,8 +57,6 @@ print("Your recipe is:")
 print(data[0]['title'])
 flick = (data[0]['image'])
 print(flick)
-#image = flick.open('File.jpg')
-#image.show()
 
 #To add blank space for stylization
 print('')

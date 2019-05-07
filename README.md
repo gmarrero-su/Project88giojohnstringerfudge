@@ -19,7 +19,7 @@ count = 0
 
 #Instructs the user to give 3 ingredients to generate a recipe
 
-print("Please give me 3 ingredients that you have to make a proper recipe dish!")
+print("Please give me 3 ingredients that you have to make a proper meal!")
 
 ing_1 = input("What is your first ingredient: ")
 ing_2 = input("What is your second ingredient: ")

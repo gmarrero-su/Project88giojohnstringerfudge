@@ -17,10 +17,6 @@ response.json()
 
 count = 0
 
-#ing_1 = 'flour'
-#ing_2 = 'milk'
-#ing_3 = 'honey'
-
 #Instructs the user to give 3 ingredients to generate a recipe
 
 print("Please give me 3 ingredients that you have to make a proper recipe dish!")
